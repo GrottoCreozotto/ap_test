@@ -1,0 +1,24 @@
+{
+    "description": "Friendly OpenSea DUCKK Creature that enjoys long swims in the ocean.",
+    "external_url": "https://myduckieswebsite.io/189",
+    "image": "https://ipfs.io/ipfs/QmRumWytAco58FWmLHKEfYF5GjK15Vz1hD4L8qdXCpqZoC/189.png",
+    "name": "Funny Ducky #189",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "lightblue"
+        },
+        {
+            "trait_type": "body",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "eyebrows",
+            "value": "worried"
+        },
+        {
+            "trait_type": "bow",
+            "value": "bow4"
+        }
+    ]
+}

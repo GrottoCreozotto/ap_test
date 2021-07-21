@@ -1,0 +1,23 @@
+{
+    "description": "Friendly OpenSea DUCKK Creature that enjoys long swims in the ocean.",
+    "image": "https://ipfs.io/ipfs/QmfRW7Si1yVfkFWZGQpjHZZsWs6jAJBwZr5qCcJQtptx9o?filename=zaglushka.png",
+    "name": "Funny Ducky #?",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "?"
+        },
+        {
+            "trait_type": "body",
+            "value": "?"
+        },
+        {
+            "trait_type": "headdress",
+            "value": "?"
+        },
+        {
+            "trait_type": "eyebrows",
+            "value": "?"
+        }
+    ]
+}
